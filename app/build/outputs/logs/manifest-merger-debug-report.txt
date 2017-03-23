@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:2:5-63
+	android:versionCode
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:4:3-15:17
+	android:label
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:5:7-39
+	android:icon
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:6:7-41
+activity#com.sqisland.android.hello.MainActivity
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:7:5-14:16
+	android:label
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:9:9-41
+	android:name
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:8:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:10:7-13:23
+action#android.intent.action.MAIN
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:11:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml:12:19-66
+uses-sdk
+INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml
+		INJECTED from C:\devand\android-hello-world\app\src\main\AndroidManifest.xml

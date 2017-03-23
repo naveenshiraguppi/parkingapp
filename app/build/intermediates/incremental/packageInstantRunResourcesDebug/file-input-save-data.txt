@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Sat Mar 18 08:56:48 AEDT 2017
+1.base=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.base=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
