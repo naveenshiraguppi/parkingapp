@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\devand\\parkingapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lengh_picker.xml",
+        "source": "C:\\devand\\parkingapp\\app\\src\\main\\res\\layout\\lengh_picker.xml"
+    },
+    {
+        "merged": "C:\\devand\\parkingapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\devand\\parkingapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\devand\\android-hello-world\\app\\src\\main\\res\\layout\\activity_main.xml"
     }

@@ -10,8 +10,14 @@ package com.sqisland.android.hello;
 public final class R {
     public static final class attr {
     }
+    public static final class id {
+        public static final int minus_button=0x7f050000;
+        public static final int plus_button=0x7f050002;
+        public static final int text=0x7f050001;
+    }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int lengh_picker=0x7f030001;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f020000;

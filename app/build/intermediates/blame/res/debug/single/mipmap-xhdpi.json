@@ -2,5 +2,9 @@
     {
         "merged": "C:\\devand\\android-hello-world\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\devand\\android-hello-world\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\devand\\parkingapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\devand\\parkingapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
